@@ -1,6 +1,6 @@
-[ime_igraca] ima x pobjeda i y poraza.
-[ime_igraca] ima z pobjeda i n poraza.
+Gabriela ima 0 pobjeda i 0 poraza.
+Andrej ima 0 pobjeda i 0 poraza.
 
 . . .
 . . .
-. . .
+. . X
