@@ -3,4 +3,4 @@ Andrej ima 0 pobjeda i 1 poraza.
 
 . . X
 X O O
-X . X
+O . X
